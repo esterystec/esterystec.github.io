@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esterystec.github.io/sitemap
+Sitemap: https://esterystec.github.io/app/sitemap
+Sitemap: https://esterystec.github.io/assets/sitemap
+Sitemap: https://esterystec.github.io/css/sitemap
+Sitemap: https://esterystec.github.io/includes/sitemap
+Sitemap: https://esterystec.github.io/item/sitemap
+Sitemap: https://esterystec.github.io/src/sitemap
